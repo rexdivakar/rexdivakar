@@ -1,6 +1,6 @@
 ## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-Hi, I'm [Divakar](), a Back-End Developer 🚀 working in Infosys Ltd, This is the place where I build and break things :rofl:                
+Hi, I'm [Divakar](), a Back-End Developer 🚀 @ Infosys, Currently this is the place where I build and break stuffs :rofl:                
 Beside's programming, I enjoy eating food and traveling.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexdivakar" alt="rexdivakar" /> </p> 

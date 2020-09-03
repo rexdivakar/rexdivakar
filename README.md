@@ -1,7 +1,7 @@
 ## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 Hi, I'm [Divakar](), Software Engineer - Python enthusiast Techie, Curious Problem Solver 🚀
-Currently this is the place where I build and break stuffs :rofl: Beside's programming, I enjoy eating food and traveling.
+Currently this is the place where I build and break stuffs :rofl: Beside's programming, I enjoy eating food and travelling.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexdivakar" alt="rexdivakar" /> </p> 
 

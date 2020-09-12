@@ -1,14 +1,11 @@
 # Hey! I'm [Divakar](https://www.linkedin.com/in/divakar-r-9b34b86b/) <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I'm a Software Engineer - Python enthusiast Techie, Curious Problem Solver 🚀
-Currently this is the place where I break & build stuffs :rofl: 
+I'm a Software Engineer - Python enthusiast Techie, Curious Problem Solver 🚀 <br> Currently this is the place where I break & build stuffs :rofl:
 I’m not just a Nerd but a freaky one 😈
 
+![Profile Views](https://komarev.com/ghpvc/?username=vidhi-mody)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/divakar-r-9b34b86b/)
 [![Message on Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/rexdivakar) 
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vidhi-mody&color=blue)
-![Profile Views](https://komarev.com/ghpvc/?username=vidhi-mody)
 
 
 **Talking about Personal Stuffs:**

@@ -1,11 +1,29 @@
 # Hey! I'm [Divakar](https://www.linkedin.com/in/divakar-r-9b34b86b/) <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I'm a Software Engineer - Python enthusiast Techie, Curious Problem Solver 🚀 <br> Currently this is the place where I break & build stuffs :rofl:
+A Software Engineer - Python enthusiast Techie, Curious Problem Solver 🚀 <br> Currently this is the place where I break & build stuffs :rofl:
 I’m not just a Nerd but a freaky one 😈
 
+<!-- ![alt text](header-animation-short-loop.gif) -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=vidhi-mody)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/divakar-r-9b34b86b/)
-[![Message on Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/rexdivakar) 
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/rexdivakar)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/rexdivakar)](https://badges.pufler.dev)
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
+
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em></em>
+
+
+<p align="left">
+  <a href="https://github.com/rexdivakar"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/rexdivakar/rexdivakar/master/assets/github.svg"></a> 
+  <a href="https://www.linkedin.com/in/divakar-r-9b34b86b/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/rexdivakar/rexdivakar/master/assets/linkedin.svg"></a>
+  <a href="https://discord.gg/j4pnYC6"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/rexdivakar/rexdivakar/master/assets/discord.svg"></a>
+    <a href="https://t.me/rexdivakar"><img alt="Telegram" title="Telegram" height="32" width="32" src="https://raw.githubusercontent.com/rexdivakar/rexdivakar/master/assets/telegram.svg"></a>
+
+
+
+
 
 
 **Talking about Personal Stuffs:**
@@ -17,8 +35,9 @@ I’m not just a Nerd but a freaky one 😈
 - ⚡ Fun fact: I :heart: breaking stuffs:s
 
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rexdivakar Spotify Playing" width="350" />](https://open.spotify.com/track/4BcAcEbp6j6luowfAliUfW)
+
+
+
 
 **Languages and Tools:**  
 

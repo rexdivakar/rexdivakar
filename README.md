@@ -5,7 +5,7 @@ I’m not just a Nerd but a freaky one 😈
 
 <!-- ![alt text](header-animation-short-loop.gif) -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=vidhi-mody)
+![Profile Views](https://komarev.com/ghpvc/?username=rexdivakar)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/rexdivakar)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/rexdivakar)](https://badges.pufler.dev)
 

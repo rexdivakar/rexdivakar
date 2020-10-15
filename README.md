@@ -20,13 +20,17 @@ I’m not just a Nerd but a freaky one 😈
 <a href="https://www.linkedin.com/in/divakar-r-9b34b86b/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/rexdivakar/rexdivakar/master/assets/linkedin.svg"></a>
 <a href="https://discord.gg/j4pnYC6"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/rexdivakar/rexdivakar/master/assets/discord.svg"></a>
     <a href="https://t.me/rexdivakar"><img alt="Telegram" title="Telegram" height="32" width="32" src="https://raw.githubusercontent.com/rexdivakar/rexdivakar/master/assets/telegram.svg"></a>
+<a href="https://dev.to/rexdivakar">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="rexdivakar's DEV Profile" height="30" width="30">
+</a>
+      
 
 
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and Tenorflow; 
+- 🌱 I’m currently learning GraphQL and TensorFlow; 
 - 👯 I’m looking to collaborate on any opensource projects or Hackathons.
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun fact: I :heart: breaking stuffs:s

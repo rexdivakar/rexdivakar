@@ -6,8 +6,7 @@ I’m not just a Nerd but a freaky one 😈
 <!-- ![alt text](header-animation-short-loop.gif) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rexdivakar)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/rexdivakar)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/rexdivakar)](https://badges.pufler.dev)
+##### Stay at `127.0.0.1`, wear a `255.255.255.0`
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 

@@ -6,6 +6,7 @@ I’m not just a Nerd but a freaky one 😈
 <!-- ![alt text](header-animation-short-loop.gif) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rexdivakar)
+![GitHub followers](https://img.shields.io/github/followers/rexdivakar?style=social)
 
 
 **Talking about Personal Stuffs:**
@@ -15,8 +16,6 @@ I’m not just a Nerd but a freaky one 😈
 - 👯 I’m looking to collaborate on any opensource projects & Hackathons.
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun fact: I :heart: breaking stuffs:s
-
-##### Stay at `127.0.0.1`, wear a `255.255.255.0`
 
 [![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/rexdivakar)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/divakar-r-9b34b86b/)

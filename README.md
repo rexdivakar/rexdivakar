@@ -1,9 +1,11 @@
 # Hey! I'm [Divakar](https://www.linkedin.com/in/divakar-r-9b34b86b/) <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-A Software Engineer - Python enthusiast Techie, Curious Problem Solver 🚀 <br> Currently this is the place where I break & build stuffs :rofl:
-I’m not just a Nerd but a freaky one 😈
-
-<!-- ![alt text](header-animation-short-loop.gif) -->
+<p>
+  <em>
+    I'm a <b>Forever Software Craftsman Apprentice.</b> and a self-taught <b>aspiring Machine & Deep Learning Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+  </em>
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+ </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rexdivakar)
 ![GitHub followers](https://img.shields.io/github/followers/rexdivakar?style=social)
@@ -15,7 +17,8 @@ I’m not just a Nerd but a freaky one 😈
 - 🌱 I’m currently learning GraphQL and TensorFlow; 
 - 👯 I’m looking to collaborate on any opensource projects & Hackathons.
 - 💬 Ask me about anything, I am happy to help;
-- ⚡ Fun fact: I :heart: breaking stuffs:s
+- ⚡ Fun fact: I :heart: breaking stuffs:s 
+<br>
 
 [![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/rexdivakar)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/divakar-r-9b34b86b/)

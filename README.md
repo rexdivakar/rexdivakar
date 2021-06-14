@@ -24,7 +24,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/divakar-r-9b34b86b/)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/rexdivakar)
 ![Discord](https://img.shields.io/discord/760088481224851476?label=DISCORD&logo=discord&logoColor=green&style=for-the-badge)
-    
+
+<img src="github-metrics.svg" alt="metrics" align="right">
 
 **Languages and Tools:**  
 

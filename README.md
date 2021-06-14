@@ -33,7 +33,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="assets\bash.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="assets\python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank"> <img src="assets\aws.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="assets\csharp.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="assets\docker.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 

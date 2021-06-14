@@ -13,10 +13,10 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and TensorFlow; 
+- 👨🏽‍💻 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning GraphQL and TensorFlow
 - 👯 I’m looking to collaborate on any opensource projects & Hackathons.
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help
 - ⚡ Fun fact: I :heart: breaking stuffs:s 
 <br>
 

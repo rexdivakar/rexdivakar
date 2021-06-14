@@ -19,7 +19,7 @@ jobs:
           user: rexdivakar
           template: classic
           base: ""
-          config_timezone: Asia/India
+          config_timezone: Asia/Kolkata
           
           plugin_habits: yes
           plugin_habits_from: 200       # Use 200 events to compute habits

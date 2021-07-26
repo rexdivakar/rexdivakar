@@ -2,32 +2,28 @@
 
 <p>
   <em>
-    I'm a <b>Forever Software Craftsman Apprentice.</b> and a self-taught <b>aspiring Machine & Deep Learning Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+    I'm a <b>Forever Software Craftsman Apprentice</b> and a self-taught <b>aspiring Machine & Deep Learning Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
   </em>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
  </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rexdivakar)
-![GitHub followers](https://img.shields.io/github/followers/rexdivakar?style=social)
-
-
-**Talking about Personal Stuffs:**
+**About me**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning GraphQL and TensorFlow
-- 👯 I’m looking to collaborate on any opensource projects & Hackathons.
+- 👯 I’m looking to collaborate on any opensource projects and Hackathons
 - 💬 Ask me about anything, I am happy to help
-- ⚡ Fun fact: I :heart: breaking stuffs:s 
+- ⚡ Fun fact: I :heart: breaking stuffs
 <br>
 
-[![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/rexdivakar)
+[![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/rexdivakar)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/divakar-r-9b34b86b/)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/rexdivakar)
 ![Discord](https://img.shields.io/discord/760088481224851476?label=DISCORD&logo=discord&logoColor=green&style=for-the-badge)
 
 <img src="github-metrics.svg" alt="metrics" align="right">
 
-**Languages and Tools:**  
+**Languages and Tools**
 
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="assets\bash.svg" alt="bash" width="40" height="40"/> </a>

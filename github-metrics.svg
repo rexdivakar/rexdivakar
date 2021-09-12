@@ -1396,18 +1396,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 48.53817320970606%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">61%</span>
+                            <div class="bar" style="width: 52.80961579738141%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">66%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 25.07003353718682%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">31%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 6.391793253107122%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">8%</span>
+                            <div class="bar" style="width: 27.19038420261859%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">34%</span>
                         </div>
                     </div>
                 </section>

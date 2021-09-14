@@ -1396,22 +1396,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 45.049894717568435%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">56%</span>
+                            <div class="bar" style="width: 45.47454024581832%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">57%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 23.26833287558363%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 23.487662877737733%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">29%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 5.932436143916506%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="name">Shell</span>
+                            <div class="bar" style="width: 5.803530172812125%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">7%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">Shell</span>
-                            <div class="bar" style="width: 5.749336262931429%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="name">Dockerfile</span>
+                            <div class="bar" style="width: 5.2342667036318264%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">7%</span>
                         </div>
                     </div>

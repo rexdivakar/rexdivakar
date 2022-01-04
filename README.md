@@ -2,10 +2,10 @@
 
 <p>
   <em>
-    I'm a <b>Forever Software Craftsman Apprentice</b> and a self-taught <b>aspiring Machine & Deep Learning Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+    I'm a <b>Forever Software Craftsman Apprentice</b> and a self-taught <b>aspiring Machine & Deep Learning Engineer</b> <img src="assets\dev.gif" width=350 height=250>
   </em>
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
- </p>
+<!-- <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+ </p> -->
 
 **About me**
 

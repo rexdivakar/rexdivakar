@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="309" class="">
     <defs>
         <style/>
     </defs>
@@ -146,18 +146,33 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 53.7695670568326%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">67%</span>
+                            <div class="bar" style="width: 73.31904983698183%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">92%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Go</span>
-                            <div class="bar" style="width: 18.10746016076717%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">23%</span>
+                            <div class="bar" style="width: 2.990218910107126%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 8.122972782400225%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">10%</span>
+                            <div class="bar" style="width: 1.3414066138798322%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">Makefile</span>
+                            <div class="bar" style="width: 1.160689333954355%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">HTML</span>
+                            <div class="bar" style="width: 0.7414997671169072%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">Ruby</span>
+                            <div class="bar" style="width: 0.4471355379599441%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1%</span>
                         </div>
                     </div>
                 </section>
